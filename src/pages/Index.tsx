@@ -120,39 +120,39 @@ const Index = () => {
             <ul className="space-y-4 text-muted-foreground">
               <li className="flex gap-3">
                 <span className="text-primary mt-1.5">•</span>
-                <span><span className="font-semibold text-foreground">Unrated:</span> The standard non-ranked mode, best of 25 rounds, with teams switching sides after 12 rounds.</span>
+                <span><span className="font-semibold text-foreground text-white">Unrated:</span> The standard non-ranked mode, best of 25 rounds, with teams switching sides after 12 rounds.</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-primary mt-1.5">•</span>
-                <span><span className="font-semibold text-foreground">Spike Rush:</span> A faster-paced, best of 7 rounds mode where all attackers carry a spike, guns are randomized each round, and ultimate abilities charge faster.</span>
+                <span><span className="font-semibold text-foreground text-white">Spike Rush:</span> A faster-paced, best of 7 rounds mode where all attackers carry a spike, guns are randomized each round, and ultimate abilities charge faster.</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-primary mt-1.5">•</span>
-                <span><span className="font-semibold text-foreground">Swiftplay:</span> A shortened version of Unrated, best of 9 rounds, averaging around 15 minutes per game.</span>
+                <span><span className="font-semibold text-foreground text-white">Swiftplay:</span> A shortened version of Unrated, best of 9 rounds, averaging around 15 minutes per game.</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-primary mt-1.5">•</span>
-                <span><span className="font-semibold text-foreground">Competitive:</span> Ranked matches similar to Unrated but with a win-based ranking system (Iron to Radiant) and a 'win by two' overtime condition; requires players to reach level 20.</span>
+                <span><span className="font-semibold text-foreground text-white">Competitive:</span> Ranked matches similar to Unrated but with a win-based ranking system (Iron to Radiant) and a 'win by two' overtime condition; requires players to reach level 20.</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-primary mt-1.5">•</span>
-                <span><span className="font-semibold text-foreground">Premier:</span> A 5v5 path-to-pro competitive mode for teams to compete in divisions, with top teams advancing to the Division Championship and potentially the VCT ecosystem; features a map pick-and-ban system.</span>
+                <span><span className="font-semibold text-foreground text-white">Premier:</span> A 5v5 path-to-pro competitive mode for teams to compete in divisions, with top teams advancing to the Division Championship and potentially the VCT ecosystem; features a map pick-and-ban system.</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-primary mt-1.5">•</span>
-                <span><span className="font-semibold text-foreground">Deathmatch:</span> A 14-player free-for-all where the first to 40 kills or the player with the most kills in 9 minutes wins; abilities are disabled, focusing on pure gunplay.</span>
+                <span><span className="font-semibold text-foreground text-white">Deathmatch:</span> A 14-player free-for-all where the first to 40 kills or the player with the most kills in 9 minutes wins; abilities are disabled, focusing on pure gunplay.</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-primary mt-1.5">•</span>
-                <span><span className="font-semibold text-foreground">Team Deathmatch:</span> A 5v5 mode where the first team to 100 kills or the team with the most kills in 9 minutes 30 seconds wins; agent abilities are allowed, and it features specific maps (Piazza, District, Kasbah).</span>
+                <span><span className="font-semibold text-foreground text-white">Team Deathmatch:</span> A 5v5 mode where the first team to 100 kills or the team with the most kills in 9 minutes 30 seconds wins; agent abilities are allowed, and it features specific maps (Piazza, District, Kasbah).</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-primary mt-1.5">•</span>
-                <span><span className="font-semibold text-foreground">Escalation:</span> A team-based 'gungame' mode where teams progress through 12 random weapons by getting kills; abilities are generally disabled, but some are available as weapons.</span>
+                <span><span className="font-semibold text-foreground text-white">Escalation:</span> A team-based 'gungame' mode where teams progress through 12 random weapons by getting kills; abilities are generally disabled, but some are available as weapons.</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-primary mt-1.5">•</span>
-                <span><span className="font-semibold text-foreground">Snowball Fight:</span> A limited-time Christmas mode (50 kills to win) where players use a snowball launcher, with abilities disabled and power-up gifts spawning.</span>
+                <span><span className="font-semibold text-foreground text-white">Snowball Fight:</span> A limited-time Christmas mode (50 kills to win) where players use a snowball launcher, with abilities disabled and power-up gifts spawning.</span>
               </li>
             </ul>
             <div className="mt-6 pt-6 border-t border-border">
