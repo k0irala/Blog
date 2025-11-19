@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+.marker-red {
+  color: red;
+}
+.bg-gradient-to-r {
+  background-image: linear-gradient(to right, rgb(242, 242, 242), rgb(255, 41, 80), rgb(242, 242, 242))
+}
+.bg-top-background
+{
+  background-image: radial-gradient(at right top, rgba(255, 41, 80, 0.2), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0))
+}
+.bg-radial-gradient
+{
+  background-image: linear-gradient(to right bottom, rgb(17, 19, 24), rgb(26, 29, 35), rgb(17, 19, 24))
+}
+.text-muted-foreground {
+    color: rgb(166, 166, 166);
+}
+ .bg-primary {
+    background-color: hsl(349 100% 58%);
+  }
