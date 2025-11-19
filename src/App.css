@@ -20,3 +20,8 @@
  .bg-primary {
     background-color: hsl(349 100% 58%);
   }
+@layer utilities {
+  .border-gaming-border {
+    border-color: rgb(55, 61, 73);
+  }
+}
